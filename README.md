@@ -71,28 +71,38 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Manual Book EzCompres
 Tentang EzCompres
+
 EzCompres adalah aplikasi web untuk mengompres file, foto, dan (nantinya) video secara lokal di perangkat Anda. Semua proses kompresi dilakukan di browser, sehingga data Anda aman dan tidak diunggah ke server manapun.
+
 Tampilan Utama
-Navbar: Di bagian atas terdapat judul "EzCompres".
-Halaman Utama: Menampilkan tiga fitur utama: Kompres Foto, Kompres Video, dan Kompres File.
-Footer: Informasi hak cipta dan pembuat aplikasi.
+
+Navbar          : Di bagian atas terdapat judul "EzCompres".
+Halaman Utama   : Menampilkan tiga fitur utama: Kompres Foto, Kompres Video, dan Kompres File.
+Footer          : Informasi hak cipta dan pembuat aplikasi.
+
 Fitur Utama
+
 1. Kompres Foto (JPG/PNG/WEBP)
+
 Cara Menggunakan:
-Pilih menu Kompres Foto (bisa dari halaman utama atau langsung ke /kompres-foto).
-Klik tombol Pilih file dan pilih gambar yang ingin dikompres (format JPG, PNG, atau WEBP).
-Setelah gambar muncul, aplikasi akan otomatis mengompres gambar ke ukuran lebih kecil (target sekitar 40% dari ukuran asli).
-Anda bisa mengatur kualitas kompresi secara manual dengan menggeser slider "Kualitas" dan klik Kompres Manual untuk melihat hasilnya.
-Preview hasil kompresi akan muncul di bawahnya, beserta informasi ukuran asli dan hasil.
-Klik Download Hasil untuk mengunduh gambar yang sudah dikompres.
+-Pilih menu Kompres Foto (bisa dari halaman utama atau langsung ke /kompres-foto).
+-Klik tombol Pilih file dan pilih gambar yang ingin dikompres (format JPG, PNG, atau WEBP).
+-Setelah gambar muncul, aplikasi akan otomatis mengompres gambar ke ukuran lebih kecil (target sekitar 40% dari ukuran asli).
+-Anda bisa mengatur kualitas kompresi secara manual dengan menggeser slider "Kualitas" dan klik Kompres Manual untuk melihat hasilnya.
+-Preview hasil kompresi akan muncul di bawahnya, beserta informasi ukuran asli dan hasil.
+-Klik Download Hasil untuk mengunduh gambar yang sudah dikompres.
+
 2. Kompres File (ZIP)
+
 Cara Menggunakan:
-Pilih menu Kompres File (bisa dari halaman utama atau langsung ke /kompres-file).
+-Pilih menu Kompres File (bisa dari halaman utama atau langsung ke /kompres-file).
 Klik Pilih file dan pilih satu atau beberapa file yang ingin dikompres (bisa file dokumen, PDF, ZIP, DOCX, PPTX, dll).
-Klik tombol Kompres ke ZIP.
-Tunggu proses kompresi selesai. Jika berhasil, akan muncul link Download ZIP.
-Klik link tersebut untuk mengunduh file ZIP hasil kompresi yang berisi file-file Anda.
+-Klik tombol Kompres ke ZIP.
+-Tunggu proses kompresi selesai. Jika berhasil, akan muncul link Download ZIP.
+-Klik link tersebut untuk mengunduh file ZIP hasil kompresi yang berisi file-file Anda.
+
 3. Kompres Video
+
 > Catatan: Fitur kompres video masih dalam tahap pengembangan (coming soon).
 Cara Menggunakan Kompres Web (Dari Halaman Utama)
 Buka aplikasi EzCompres di browser Anda.
@@ -101,18 +111,32 @@ Pilih satu atau beberapa file dari komputer Anda.
 Jika file berupa gambar, aplikasi akan otomatis mengompres dan mengunduh hasilnya.
 Jika file bukan gambar, file akan langsung diunduh (fitur kompres file non-gambar hanya tersedia di menu Kompres File).
 Hasil kompresi akan ditampilkan di bawah, lengkap dengan nama file, ukuran sebelum dan sesudah kompres, serta statusnya.
+>
+
 Informasi Tambahan
+
 Keamanan Data: Semua proses kompresi dilakukan secara lokal di perangkat Anda, tidak ada file yang diunggah ke server.
-Tampilan Modern: Aplikasi menggunakan tema biru modern, responsif, dan mudah digunakan.
-Tentang Pembuat: Aplikasi ini dibuat oleh Najwa & Alys, mahasiswa yang antusias di bidang teknologi.
+
+Tampilan Modern : Aplikasi menggunakan tema biru modern, responsif, dan mudah digunakan.
+
+Tentang Pembuat : Aplikasi ini dibuat oleh Najwa & Alys, mahasiswa yang antusias di bidang teknologi.
+
 FAQ
+
 Q: Apakah aplikasi ini gratis?
+
 A: Ya, EzCompres dapat digunakan secara gratis.
+
 Q: Apakah file saya aman?
+
 A: Ya, semua proses kompresi dilakukan di browser Anda, tanpa upload ke server.
+
 Q: Format file apa saja yang didukung?
+
 A: Untuk foto: JPG, PNG, WEBP. Untuk file: PDF, ZIP, DOCX, PPTX, dan lainnya. Untuk video: MP4, WEBM (fitur segera hadir).
+
 Kontak & Dukungan
+
 Untuk saran, kritik, atau laporan bug, silakan hubungi pembuat melalui informasi yang tertera di aplikasi.
 Selamat menggunakan EzCompres! Kompres file Anda dengan mudah, cepat, dan aman.
 Apakah ada bagian yang ingin ditambahkan atau diperjelas? Jika ingin manual book ini dalam format file (misal PDF atau markdown), silakan informasikan.
